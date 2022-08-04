@@ -12,6 +12,6 @@ In this challenge I practiced the following:
 [Website URL](https://ckkorson.github.io/challenge1/)
 
 ## Screenshots of website
-![Top of Website](/challenges/Module-1/challenge1/Develop/assets/images/website-image-1.png)
-![Middle of Website](/challenges/Module-1/challenge1/Develop/assets/images/website-image-2.png)
-![Bottom of Website](/challenges/Module-1/challenge1/Develop/assets/images/website-image-3.png)
+![Top of Website](/Develop/assets/images/website-image-1.png)
+![Middle of Website](/Develop/assets/images/website-image-2.png)
+![Bottom of Website](/Develop/assets/images/website-image-3.png)

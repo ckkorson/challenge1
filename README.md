@@ -6,3 +6,6 @@ In this challenge I practiced the following:
 -Using git commands to commit and push repositories to GitHub.
 -Creating a deployed URL in GitPages.
 -Consilidating and orginizing CSS properties.
+
+
+URL:   https://ckkorson.github.io/challenge1/

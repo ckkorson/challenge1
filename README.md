@@ -9,7 +9,7 @@ In this challenge I practiced the following:
 - Consilidating and orginizing CSS properties.
 
 ## Website URL
-[Website URL](https://ckkorson.github.io/challenge1/)
+[ckkorson.github.io/challenge1](https://ckkorson.github.io/challenge1/)
 
 ## Screenshots of website
 ![Top of Website](/Develop/assets/images/website-image-1.png)
